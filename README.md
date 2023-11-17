@@ -1,5 +1,3 @@
-# Presentation Title:
-
 ## Digital Nomad Life
 
 ### 1: Introduction
