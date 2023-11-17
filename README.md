@@ -3,7 +3,8 @@
 ### 1: Introduction
 
 - **Title**: What is a Digital Nomad?
-- **Content**: Add a brief explanation about digital nomads - people who work remotely and travel.
+- **Content**: A Digital Nomad is someone who works online and can travel anywhere. They use the internet to do their job from places like cafes or libraries. 
+This lifestyle lets them travel and work at the same time. They need a laptop and good internet to work.
 
 ### 2: Advantages
 
@@ -29,13 +30,6 @@
     - Cost of tech equipment (laptop, phone).
     - Insurance and health care considerations.
 
-### 5: Conclusion
-
-- **Title**: Is Digital Nomad Life for You?
-- **Content**:
-    - Summary of key points.
-    - Personal reflection: "Is this lifestyle suitable for you?"
-
-### 6: Questions
+### 5: Questions
 
 - **Title**: Any Questions?
